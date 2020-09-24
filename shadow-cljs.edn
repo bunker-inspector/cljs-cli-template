@@ -11,5 +11,4 @@
  {:app
   {:target :node-script
    :main cli.core/init
-   :output-to "target/main.js"
-   }}}
+   :output-to "target/main.js"}}}
